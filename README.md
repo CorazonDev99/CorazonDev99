@@ -8,7 +8,7 @@
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/C_Rosinant)
-[![LinkedIn](linkedin.com/in/kamoliddin-umarov-2b4692292)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](linkedin.com/in/kamoliddin-umarov-2b4692292)
 <!--   GitHub stats graph -->
 
 
