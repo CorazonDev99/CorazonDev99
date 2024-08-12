@@ -1,4 +1,4 @@
-##  Kamoliddin Umarov | Software engineer
+##  Kamoliddin Umarov | Backend engineer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Backend+Developer;I'm+a+Python+Developer;I'm+a+Django+Developer;I'm+a+Go+Developer;)
 
 
