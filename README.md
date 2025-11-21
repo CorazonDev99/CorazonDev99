@@ -13,5 +13,6 @@
 
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CorazonDev99.CorazonDev99&style=for-the-badge&left_text=Visitors&left_color=0D1117&right_color=FF6B6B&text_color=FFFFFF&count_color=FFFFFF" />
+  <b style="font-size:18px; color:#28a745;">Visitor Count</b><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CorazonDev99.CorazonDev99&style=flat-square&left_text=Visits&left_color=000000&right_color=28a745&text_color=28a745" />
 </p>
