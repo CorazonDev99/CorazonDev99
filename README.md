@@ -13,6 +13,5 @@
 
 
 <p align="center">
-  <b>Visitor Count</b><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CorazonDev99.CorazonDev99&style=flat-square&type=page&left_color=blue&right_color=green&left_text=Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CorazonDev99.CorazonDev99&style=for-the-badge&left_text=Visitors&left_color=0D1117&right_color=FF6B6B&text_color=FFFFFF&count_color=FFFFFF" />
 </p>
